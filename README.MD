@@ -691,7 +691,7 @@ docker-compose up -d
 mvn test -Dtest=*E2ETest
 ```
 
----
+--- 
 
 ## 14. Avantages de cette architecture
 
