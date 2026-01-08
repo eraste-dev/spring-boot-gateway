@@ -10,4 +10,6 @@ public class CloudxApplication {
 		SpringApplication.run(CloudxApplication.class, args);
 	}
 
+
+
 }
