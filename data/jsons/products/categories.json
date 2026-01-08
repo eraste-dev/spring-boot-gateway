@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Electronics",
+    "description": "Electronic devices, gadgets and accessories",
+    "code": "ELEC",
+    "active": true
+  },
+  {
+    "name": "Apparel",
+    "description": "Clothing, shoes and fashion accessories",
+    "code": "APRL",
+    "active": true
+  },
+  {
+    "name": "Sports",
+    "description": "Sports equipment and fitness accessories",
+    "code": "SPRT",
+    "active": true
+  },
+  {
+    "name": "Stationery",
+    "description": "Office supplies, notebooks and writing materials",
+    "code": "STAT",
+    "active": true
+  },
+  {
+    "name": "Smart Home",
+    "description": "Connected home devices and automation",
+    "code": "SMRT",
+    "active": true
+  }
+]

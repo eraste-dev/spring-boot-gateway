@@ -1,12 +1,12 @@
 server:
-  port: 8081
+  port: 8082
   error:
     whitelabel:
       enabled: false
 
 spring:
   application:
-    name: user-service
+    name: product-service
   profiles:
     active: ${SPRING_PROFILES_ACTIVE:dev}
 
@@ -35,7 +35,7 @@ spring:
     activate:
       on-profile: dev
   datasource:
-    url: jdbc:h2:mem:userdb
+    url: jdbc:h2:mem:productdb
     driver-class-name: org.h2.Driver
     username: sa
     password:
@@ -58,10 +58,10 @@ spring:
     activate:
       on-profile: docker
   datasource:
-    url: jdbc:postgresql://localhost:5432/userdb
+    url: jdbc:postgresql://localhost:5433/productdb
     driver-class-name: org.postgresql.Driver
-    username: user_admin
-    password: user_secret_2024
+    username: product_admin
+    password: product_secret_2024
   jpa:
     hibernate:
       ddl-auto: update

@@ -9,9 +9,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>user-service</artifactId>
-    <name>User Service</name>
-    <description>Microservice for user management</description>
+    <artifactId>product-service</artifactId>
+    <name>Product Service</name>
+    <description>Microservice for product management</description>
 
     <dependencies>
         <!-- Common module -->

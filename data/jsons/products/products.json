@@ -1,0 +1,83 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "quantity": 50,
+    "sku": "IPHONE-15-PRO-256",
+    "description": "Latest Apple smartphone with A17 Pro chip",
+    "categoryId": 1,
+    "active": true
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199.99,
+    "quantity": 30,
+    "sku": "GALAXY-S24-ULTRA-512",
+    "description": "Flagship Android phone with S Pen and 200MP camera",
+    "categoryId": 1,
+    "active": true
+  },
+  {
+    "name": "Wireless Noise-Cancelling Headphones",
+    "price": 249.99,
+    "quantity": 120,
+    "sku": "AUDIO-NC700-BLK",
+    "description": "Premium over-ear headphones with 30h battery life",
+    "categoryId": 1,
+    "active": true
+  },
+  {
+    "name": "Organic Cotton T-Shirt",
+    "price": 24.50,
+    "quantity": 200,
+    "sku": "APPAREL-TSHIRT-M-BLU",
+    "description": "Unisex eco-friendly t-shirt, size M, navy blue",
+    "categoryId": 2,
+    "active": true
+  },
+  {
+    "name": "Mechanical Keyboard - RGB",
+    "price": 89.95,
+    "quantity": 45,
+    "sku": "PC-KB-MECH-BROWN",
+    "description": "TKL mechanical keyboard with brown switches and customizable backlight",
+    "categoryId": 1,
+    "active": true
+  },
+  {
+    "name": "Yoga Mat - Eco Friendly",
+    "price": 34.99,
+    "quantity": 75,
+    "sku": "SPORT-YOGA-MAT-PURPLE",
+    "description": "Non-slip, 6mm thick, made from natural rubber",
+    "categoryId": 3,
+    "active": true
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "price": 29.99,
+    "quantity": 10,
+    "sku": "ACC-CHARGE-QI-15W",
+    "description": "Fast 15W Qi wireless charger, compatible with iPhone & Android",
+    "categoryId": 1,
+    "active": false
+  },
+  {
+    "name": "Notebook - Hardcover, A5",
+    "price": 12.75,
+    "quantity": 300,
+    "sku": "STATIONERY-NB-A5-LINED",
+    "description": "100 pages, recycled paper, dotted grid",
+    "categoryId": 4,
+    "active": true
+  },
+  {
+    "name": "Smart LED Light Bulb",
+    "price": 15.49,
+    "quantity": 88,
+    "sku": "SMART-BULB-E27-RGB",
+    "description": "WiFi-enabled, dimmable, 16 million colors, works with Alexa",
+    "categoryId": 5,
+    "active": true
+  }
+]
