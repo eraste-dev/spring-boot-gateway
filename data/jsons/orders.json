@@ -1,0 +1,86 @@
+[
+  {
+    "userId": 1,
+    "shippingAddress": "123 Main Street, Apt 4B, New York, NY 10001",
+    "notes": "Please leave at the door",
+    "items": [
+      {
+        "productId": 1,
+        "productName": "iPhone 15 Pro",
+        "productSku": "IPHONE-15-PRO-256",
+        "quantity": 1,
+        "unitPrice": 999.99
+      },
+      {
+        "productId": 3,
+        "productName": "Wireless Noise-Cancelling Headphones",
+        "productSku": "AUDIO-NC700-BLK",
+        "quantity": 1,
+        "unitPrice": 249.99
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "shippingAddress": "456 Oak Avenue, Suite 100, Los Angeles, CA 90001",
+    "notes": "Ring the bell twice",
+    "items": [
+      {
+        "productId": 2,
+        "productName": "Samsung Galaxy S24 Ultra",
+        "productSku": "GALAXY-S24-ULTRA-512",
+        "quantity": 1,
+        "unitPrice": 1199.99
+      }
+    ]
+  },
+  {
+    "userId": 1,
+    "shippingAddress": "123 Main Street, Apt 4B, New York, NY 10001",
+    "notes": null,
+    "items": [
+      {
+        "productId": 4,
+        "productName": "Organic Cotton T-Shirt",
+        "productSku": "APPAREL-TSHIRT-M-BLU",
+        "quantity": 3,
+        "unitPrice": 24.50
+      },
+      {
+        "productId": 6,
+        "productName": "Yoga Mat - Eco Friendly",
+        "productSku": "SPORT-YOGA-MAT-PURPLE",
+        "quantity": 1,
+        "unitPrice": 34.99
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "shippingAddress": "789 Pine Road, Chicago, IL 60601",
+    "notes": "Deliver after 5 PM",
+    "items": [
+      {
+        "productId": 5,
+        "productName": "Mechanical Keyboard - RGB",
+        "productSku": "PC-KB-MECH-BROWN",
+        "quantity": 1,
+        "unitPrice": 89.95
+      },
+      {
+        "productId": 9,
+        "productName": "Smart LED Light Bulb",
+        "productSku": "SMART-BULB-E27-RGB",
+        "quantity": 4,
+        "unitPrice": 15.49
+      },
+      {
+        "productId": 8,
+        "productName": "Notebook - Hardcover, A5",
+        "productSku": "STATIONERY-NB-A5-LINED",
+        "quantity": 2,
+        "unitPrice": 12.75
+      }
+    ]
+  }
+]
